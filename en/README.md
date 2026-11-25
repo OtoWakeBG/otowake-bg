@@ -21,9 +21,11 @@ The installer speaks English or Japanese, following your computer's language. Yo
 
 ## First: you will see a warning, and that is expected
 
-OtoWake BG is made by an individual and given away for free, so it carries **no developer signature** from Apple or Microsoft. When you download it or open it for the first time, your Mac or PC warns that it cannot verify it. The steps below get you past the warning.
-
-If you want to be sure, check that the file is the one we published before you open it (see "Check the file" on this page).
+> [!CAUTION]
+> **The OtoWake BG installers and app carry no developer signature from Apple or Microsoft,** because it is made by an individual and given away for free. When you download it or open it for the first time, your Mac or PC warns that it cannot verify it. The steps below get you past the warning.
+>
+> - **On Windows, it cannot run on a PC where "Smart App Control" is on** (see "It does not run with Smart App Control on" below).
+> - If you want to be sure, check that the file is the one we published before you open it (see "Check the file" on this page).
 
 ## Install on a Mac
 
@@ -51,7 +53,8 @@ If the same warning appears when you open the app, press "Open Anyway" in the sa
 
 ### It does not run with Smart App Control on
 
-On a PC where Windows 11's "Smart App Control" is on, apps without a signature are blocked and OtoWake BG cannot run. Unlike the warnings, there is no way past this.
+> [!CAUTION]
+> **On a PC where Windows 11's "Smart App Control" is on, apps without a signature are blocked and OtoWake BG cannot run.** Unlike the warnings, there is no way past this.
 
 To check: open "Windows Security" from the Start menu, then "App & browser control" → "Smart App Control settings". If it says "On", this version cannot be used.
 

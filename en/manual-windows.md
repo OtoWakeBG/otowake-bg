@@ -20,7 +20,13 @@ OtoWake BG comes as a setup file (`OtoWakeBG-Setup-<version>-win-x64.exe`). The 
 2. Choose whether to create a desktop shortcut, then press "Next" and "Install".
 3. Press "Finish" to start OtoWake BG (untick the box first if you do not want to start it now).
 
-The setup is not signed by its developer, so Windows may say "Windows protected your PC". If so, press "More info", then "Run anyway".
+> [!CAUTION]
+> **The setup and the app carry no developer signature,** so Windows and your browser show warnings.
+>
+> - If Microsoft Edge says the file "isn't commonly downloaded", choose "Keep" from the "…" on that line, then "Show more" → "Keep anyway".
+> - If you see "Windows protected your PC", press "More info", then "Run anyway".
+> - **OtoWake BG cannot run on a PC where "Smart App Control" is on** (unlike the warnings, there is no way past it). Check it under Windows Security → "App & browser control" → "Smart App Control settings". Once turned off it cannot be turned back on without reinstalling Windows, so we do not recommend turning it off for OtoWake BG.
+> - If you want to be sure, check the file with the SHA-256 on the download page before you open it.
 
 Opening the setup of a newer version replaces the OtoWake BG you have. Your settings and data are kept. If OtoWake BG is running, the setup asks to close it.
 

@@ -23,7 +23,13 @@ OtoWake BG comes as an installer file (`OtoWakeBG-<version>-mac.pkg`). The insta
    - "Install for all users of this computer" puts it in the Applications folder and asks for an administrator password.
 3. When it is done, press "Close" and open OtoWake BG from the Applications folder.
 
-The installer is not signed by its developer, so macOS may say it could not open it. If so, open "Privacy & Security" in System Settings and press "Open Anyway" next to the OtoWake BG installer near the bottom.
+> [!CAUTION]
+> **The installer and the app carry no developer signature,** so macOS warns that it could not open them.
+>
+> - When the warning appears, press "Done" (not "Move to Trash"). Then open "Privacy & Security" in System Settings, press "Open Anyway" next to OtoWake BG near the bottom, and confirm with your login password (or Touch ID).
+> - On macOS 14, you can also Control-click the file and choose "Open".
+> - If the same warning appears when you open the app, do the same.
+> - If you want to be sure, check the file with the SHA-256 on the download page before you open it.
 
 Opening the installer of a newer version replaces the OtoWake BG you have. Your settings and data are kept.
 
