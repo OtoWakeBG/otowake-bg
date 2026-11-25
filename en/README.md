@@ -86,4 +86,9 @@ You can check that the file you downloaded is the one we published. If the value
 
 The credits for the technology and material it uses are in [Credits](../credits.md).
 
-How to send bug reports and feedback will be announced on this page soon.
+Send bug reports and feedback by direct message, to either of these. We do not take feedback by email.
+
+- X: a direct message to [@OtoWakeBG](https://x.com/OtoWakeBG)
+- Substack: a direct message to [OtoWake BG](https://otowakebg.substack.com)
+
+When you report a problem, it helps to include your OS and version, your Mac model or your PC's CPU and GPU, and what you did and what happened.
