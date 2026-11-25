@@ -8,6 +8,8 @@ A free practice app for people who play bluegrass (Mac and Windows, 0.1.0 beta).
 
 [Downloads / ダウンロード](https://github.com/OtoWakeBG/otowake-bg/releases) · [Credits / クレジット](credits.md)
 
+**Recordings wanted, dobro especially** — [how to share yours](en/README.md#share-your-recordings-dobro-especially) / **録音の提供を受け付けています（特にドブロ）** — [提供のしかた](ja/README.md#録音の提供を受け付けています特にドブロ)
+
 > [!CAUTION]
 > **The installers and the app carry no developer signature.** Your Mac or PC shows a warning when you download or open them; [Download and install](en/README.md) shows how to get past it. **On Windows, OtoWake BG cannot run on a PC where "Smart App Control" is on.**
 >

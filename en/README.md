@@ -82,6 +82,28 @@ You can check that the file you downloaded is the one we published. If the value
 - Use only audio you are allowed to use. Whether you may capture or process audio depends on the rights in the recording and on the terms of the service that plays it. See "Things to know before you use it" in the [Release Notes](release-notes.md).
 - The split is not perfect. Listen and check as you go.
 
+## Share your recordings (dobro especially)
+
+To make the part separation better, we take recordings of your playing. The model only learns what it has heard, and **dobro most of all needs more players.**
+
+- Dobro: leads and breaks, fills behind singing, backup in a band, rolls, slants, chop, slides. Any dobro, any microphone (a phone is fine).
+- Every other instrument and singing is welcome too, solo and backup, especially singing (lead and harmony parts) and singing while playing on separate microphones.
+- One instrument (or voice) per track, or played alone with no backing, helps most.
+
+The terms:
+
+- **It must be yours to share**: your own playing, and everyone on the recording agrees.
+- **Traditional / public domain tunes, or your own songs.** No covers of copyrighted songs, and nothing taken from commercial releases, streaming or YouTube.
+- **You choose how it's used.** It is used to train the separation model only if you allow it, under CC BY 4.0 (with credit) or CC0.
+- **You can change your mind**, and your recordings are left out of all future training.
+
+How to take part:
+
+1. Fill in the short form (no files, no email address): [recording consent form](https://docs.google.com/forms/d/e/1FAIpQLScL30obJMq3kRSdzwYIKIxvFplsjZKaAmXa19ql4RyDELHz_w/viewform)
+2. We send you a private upload link by direct message on X or Substack. Please don't send audio files by direct message.
+
+The full terms are in the [Substack post](https://otowakebg.substack.com/p/splitting-a-bluegrass-band-into-every).
+
 ## Credits and contact
 
 The credits for the technology and material it uses are in [Credits](../credits.md).
